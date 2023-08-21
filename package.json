@@ -10,5 +10,12 @@
     "name": "Luiz Felds Liscia",
     "url": "https://felds.com.br/"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "peerDependencies": {
+    "sass": "*"
+  },
+  "prettier": {
+    "printWidth": 121,
+    "tabWidth": 4
+  }
 }

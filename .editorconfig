@@ -1,0 +1,5 @@
+root = true
+
+[*.{scss}]
+tab_width = 4
+
